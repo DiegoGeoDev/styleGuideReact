@@ -1,6 +1,6 @@
 # Configuração do Ambiente (React)
 
-## 1- Criar um projeto React
+## 1- Criar um Projeto React
 
 ```bash
 npx create-react-app style_guide_react
@@ -99,7 +99,7 @@ npm i -D prettier eslint-plugin-prettier eslint-config-prettier
 }
 ```
 
-## 3- Pesquisar por mais opções de configuração
+## 3- Pesquisar por mais Opções de Configuração
 
 - [ESLint](https://eslint.org/)<br>
 - [Preetier](https://prettier.io/)
